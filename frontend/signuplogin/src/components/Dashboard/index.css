@@ -1,0 +1,8 @@
+.dashboard-container {
+  height: 100vh;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

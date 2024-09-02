@@ -1,0 +1,59 @@
+.signup-container {
+  height: 100vh;
+  color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  width: 300px;
+  padding: 40px;
+  background-color: black;
+  border-radius: 10px;
+  color: #fff;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+.input-bar {
+  width: 200px;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+}
+
+.details-label {
+  font-size: 12px;
+  color: rgb(194, 171, 171);
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.checkbox-container {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+.show-hide-password {
+  font-size: 12px;
+}
+
+.align-button {
+  text-align: center;
+}
+.signup-button {
+  background-color: rgb(64, 143, 180);
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 70px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.redirect {
+  color: rgb(87, 87, 251);
+}
+.warning {
+  color: red;
+  font-size: 12px;
+}
